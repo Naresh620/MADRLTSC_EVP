@@ -1,0 +1,13 @@
+<edges>
+<edge from="n1" to="n2" id="1to2" type="3L60"/>
+<edge from="n2" to="n1" id="2to1" type="3L60"/>*
+
+<edge from="n2" to="n3" id="2to3" type="3L60"/>
+<edge from="n3" to="n2" id="3to2" type="3L60"/>
+
+<edge from="n4" to="n2" id="4to2" type="3L60"/>
+<edge from="n2" to="n4" id="2to4" type="3L60"/>*
+
+<edge from="n2" to="n5" id="2to5" type="3L60"/>
+<edge from="n5" to="n2" id="5to2" type="3L60"/>
+</edges>
